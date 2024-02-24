@@ -10,7 +10,6 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-
   },
   "contributors": [
     "Kenny",
@@ -36,5 +35,5 @@
     "gh-pages": "^6.1.1",
     "vite": "^5.0.8"
   },
-  "homepage": "https://github.com/fantasyLink0222/Movie-Api-backup.git"
+  "homepage": "https://fantasyLink0222.github.io/Movie-Api-backup"
 }
