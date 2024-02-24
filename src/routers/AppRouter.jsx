@@ -6,7 +6,6 @@ import Footer from "../components/Footer";
 // Pages
 import PageHome from "../pages/PageHome";
 import PageAbout from "../pages/PageAbout";
-
 import PageFavorite from "../pages/PageFavorite";
 import PageWatchList from "../pages/PageWatchList";
 import PageNotFound from "../pages/PageNotFound";
